@@ -1,6 +1,6 @@
-#VOICE-ACTIVATED PRESCRIPTION USING NATURAL LANGUAGE UNDERSTANDING
+# VOICE-ACTIVATED PRESCRIPTION USING NATURAL LANGUAGE UNDERSTANDING
 
-##Hosting Link
+## Hosting Link
 https://voice-activated-prescription.netlify.app/
 
 ## Getting Started with Create React App
